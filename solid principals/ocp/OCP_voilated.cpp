@@ -112,7 +112,7 @@ public:
         cout << "Saving shopping cart to File..." << endl;
     }
     
-    // If another DB store method came we've to open this class and modify into it  this is a voilation of open close principal
+    // If another DB store method came we've to open this class and modify into it  this is a voilation of open close principel
 };
 
 int main()

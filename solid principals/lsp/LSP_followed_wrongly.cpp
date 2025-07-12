@@ -118,7 +118,7 @@ public:
             account->deposit(500);
 
 
-            // Here it violates the Open-Close Principal that's why we should not do this type of approach
+            // Here it violates the Open-Close Principle that's why we should not do this type of approach
             if (typeid(*account) == typeid(FixedDepositeAccount))
             {
                 cout << "Skipping the withdraw functionality for the Fixed Term Accounts!" << endl;
