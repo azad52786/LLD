@@ -1,0 +1,5 @@
+TEXT: Hello, world!
+IMAGE: picture.jpg
+TEXT: This is a document editor.
+IMAGE: picture 1.jpg
+TEXT: This is a document editor 1.
